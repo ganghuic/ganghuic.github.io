@@ -1,8 +1,8 @@
 # Welcome
 
-This is Ganghui Cao's Blog <https://connerphlip.github.io>
+This is Ganghui Cao's Blog <https://connerphlip.github.io>.
 
-- 通过主题和目录以打开文章
-    - PC端 在上方标签栏选择主题 在左侧目录选择文章
-    - 移动端 点击左上角图标选择主题和文章
-- 搜索关键词以打开文章
+- Browse the article by topic and contents.
+    - Select the topics in the upper tab bar and select the article in the table of contents on the left if you are on PC.
+    - Click the icon in the upper left corner to select the topics and article if you use Mobile.
+- Search for keywords in the search box in the upper corner to open the article.
