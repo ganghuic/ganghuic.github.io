@@ -14,6 +14,7 @@ nav:
     - polymer/index.md
   - Simulation&Algorithms:
     - simulation_algorithms/index.md
+    - simulation_algorithms/dissipative_particle_dynamics.md
   - Theory of physics:
     - theory_of_physics/index.md
   - Technical Tutorials:

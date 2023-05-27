@@ -4,7 +4,7 @@ I want to show my information to others by the blog, but I don't want to spend a
 
 ## Demand
 
-- I have been taking notes by markdown, so it is nessary for this tool to convert markdown to HTML .
+- I have been taking notes by markdown, so it is necessary for this tool to convert markdown to HTML .
     - To achieve this function, there are a lot of tools, such as sitdown, Markdown2Html, typora, etc.
 - I don't want to organize these files by myself, it is handy for me to automatically organize these files.
     - jekyll, hugo, hexo, gitbook, mdbook, etc.
@@ -53,3 +53,35 @@ I want to show my information to others by the blog, but I don't want to spend a
 ### Finish
 
 - You can view you website at your Github Pages if it finished the build and deploy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-HBS60FDTSC"></script> <script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());   gtag('config', 'G-HBS60FDTSC'); </script>
