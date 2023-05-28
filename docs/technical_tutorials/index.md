@@ -1,6 +1,8 @@
 # Catalog
 
-Click the left dictionary to open the article
+**Click the left dictionary or the following link to open the article.**
+
+- [Create a Blog by Github Pages](./github_pages_blog.md)
 
 
 

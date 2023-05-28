@@ -1,6 +1,8 @@
 # Catalog
 
-Click the left dictionary to open the article
+**Click the left dictionary or the following link to open the article.**
+
+- [Dissipative Particle Dynamics Introduction and Derive](./dissipative_particle_dynamics.md)
 
 
 

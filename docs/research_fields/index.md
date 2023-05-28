@@ -1,6 +1,6 @@
 # Catalog
 
-Click the left dictionary to open the article
+**Click the left dictionary or the following link to open the article.**
 
 
 
